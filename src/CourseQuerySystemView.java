@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : CourseQuerySystemView.java
+ * Developer : Batuhan Erden
+ */
+
 import java.text.*;
 import java.util.*;
 

@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : StudentTest.java
+ * Developer : Batuhan Erden
+ */
+
 import static org.junit.Assert.*;
 import org.junit.*;
 

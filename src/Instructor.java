@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : Instructor.java
+ * Developer : Batuhan Erden
+ */
+
 public class Instructor {
 
 	private String name;

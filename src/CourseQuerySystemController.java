@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : CourseQuerySystemController.java
+ * Developer : Batuhan Erden
+ */
+
 import java.util.*;
 import org.json.simple.*;
 

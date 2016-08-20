@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : Room.java
+ * Developer : Batuhan Erden
+ */
+
 public class Room {
 
 	private String roomCode;

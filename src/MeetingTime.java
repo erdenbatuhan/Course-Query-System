@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : MeetingTime.java
+ * Developer : Batuhan Erden
+ */
+
 import java.util.ArrayList;
 import org.json.simple.*;
 

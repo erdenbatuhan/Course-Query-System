@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : Student.java
+ * Developer : Batuhan Erden
+ */
+
 import java.util.*;
 
 public class Student {

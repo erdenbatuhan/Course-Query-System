@@ -1,3 +1,9 @@
+/*
+ * Project   : CourseQuerySystem
+ * Class     : Schedule.java
+ * Developer : Batuhan Erden
+ */
+
 import java.text.*;
 import java.util.*;
 import org.json.simple.*;
