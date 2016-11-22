@@ -209,4 +209,20 @@ public class CourseQuerySystemController {
 
 		return courses;
 	}
+
+	public CoursesOffered getCoursesOffered() {
+		return coursesOffered;
+	}
+
+	public void setCoursesOffered(CoursesOffered coursesOffered) {
+		this.coursesOffered = coursesOffered;
+	}
+
+	public CourseQuerySystemView getView() {
+		return view;
+	}
+
+	public void setView(CourseQuerySystemView view) {
+		this.view = view;
+	}
 }

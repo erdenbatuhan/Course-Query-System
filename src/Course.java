@@ -156,23 +156,47 @@ public class Course {
 		return subjectName;
 	}
 
+	public void setSubjectName(String subjectName) {
+		this.subjectName = subjectName;
+	}
+
 	public String getCourseNo() {
 		return courseNo;
+	}
+
+	public void setCourseNo(String courseNo) {
+		this.courseNo = courseNo;
 	}
 
 	public String getSectionNo() {
 		return sectionNo;
 	}
 
+	public void setSectionNo(String sectionNo) {
+		this.sectionNo = sectionNo;
+	}
+
 	public ArrayList<Instructor> getInstructors() {
 		return instructors;
+	}
+
+	public void setInstructors(ArrayList<Instructor> instructors) {
+		this.instructors = instructors;
 	}
 
 	public ArrayList<Schedule> getSchedules() {
 		return schedules;
 	}
 
+	public void setSchedules(ArrayList<Schedule> schedules) {
+		this.schedules = schedules;
+	}
+
 	public ArrayList<Student> getStudents() {
 		return students;
+	}
+
+	public void setStudents(ArrayList<Student> students) {
+		this.students = students;
 	}
 }

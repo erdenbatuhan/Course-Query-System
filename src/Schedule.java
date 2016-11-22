@@ -98,15 +98,31 @@ public class Schedule {
 		System.out.println("          }");
 	}
 
+	public static DateFormat getDateFormatter() {
+		return DATE_FORMATTER;
+	}
+
 	public Date getStartDate() {
 		return startDate;
+	}
+
+	public void setStartDate(Date startDate) {
+		this.startDate = startDate;
 	}
 
 	public Date getFinishDate() {
 		return finishDate;
 	}
 
+	public void setFinishDate(Date finishDate) {
+		this.finishDate = finishDate;
+	}
+
 	public ArrayList<MeetingTime> getMeetingTimes() {
 		return meetingTimes;
+	}
+
+	public void setMeetingTimes(ArrayList<MeetingTime> meetingTimes) {
+		this.meetingTimes = meetingTimes;
 	}
 }

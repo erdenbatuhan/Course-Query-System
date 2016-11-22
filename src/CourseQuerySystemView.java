@@ -109,4 +109,20 @@ public class CourseQuerySystemView {
 			for (Course course : courses)
 				course.printData();
 	}
+
+	public CourseQuerySystemController getController() {
+		return controller;
+	}
+
+	public void setController(CourseQuerySystemController controller) {
+		this.controller = controller;
+	}
+
+	public int getUserInputAsInt() {
+		return userInputAsInt;
+	}
+
+	public void setUserInputAsInt(int userInputAsInt) {
+		this.userInputAsInt = userInputAsInt;
+	}
 }

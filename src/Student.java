@@ -113,20 +113,40 @@ public class Student {
 		System.out.println("          }");
 	}
 
+	public static String[] getDays() {
+		return DAYS;
+	}
+
 	public String getName() {
 		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public String getId() {
 		return id;
 	}
 
+	public void setId(String id) {
+		this.id = id;
+	}
+
 	public ArrayList<Course> getCoursesTaken() {
 		return coursesTaken;
 	}
 
+	public void setCoursesTaken(ArrayList<Course> coursesTaken) {
+		this.coursesTaken = coursesTaken;
+	}
+
 	public String[][] getWeeklyCoursePlan() {
 		return weeklyCoursePlan;
+	}
+
+	public void setWeeklyCoursePlan(String[][] weeklyCoursePlan) {
+		this.weeklyCoursePlan = weeklyCoursePlan;
 	}
 }
 

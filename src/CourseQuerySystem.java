@@ -41,4 +41,16 @@ public class CourseQuerySystem {
 			}
 		}
 	}
+
+	public static String getJsonFile() {
+		return JSON_FILE;
+	}
+
+	public JSONArray getJsonData() {
+		return jsonData;
+	}
+
+	public void setJsonData(JSONArray jsonData) {
+		this.jsonData = jsonData;
+	}
 }
