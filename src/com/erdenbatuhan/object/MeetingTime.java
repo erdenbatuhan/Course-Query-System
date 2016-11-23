@@ -1,9 +1,12 @@
+package com.erdenbatuhan.object;
+
 /*
  * Project   : CourseQuerySystem
  * Class     : MeetingTime.java
  * Developer : Batuhan Erden
  */
 
+import com.erdenbatuhan.mvc.CourseQuerySystemView;
 import java.util.ArrayList;
 import org.json.simple.*;
 

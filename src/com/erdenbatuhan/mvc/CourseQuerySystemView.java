@@ -1,9 +1,12 @@
+package com.erdenbatuhan.mvc;
+
 /*
  * Project   : CourseQuerySystem
  * Class     : CourseQuerySystemView.java
  * Developer : Batuhan Erden
  */
 
+import com.erdenbatuhan.object.*;
 import java.text.*;
 import java.util.*;
 

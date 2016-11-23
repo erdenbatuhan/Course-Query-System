@@ -1,3 +1,5 @@
+package com.erdenbatuhan.object;
+
 /*
  * Project   : CourseQuerySystem
  * Class     : Room.java

@@ -1,9 +1,12 @@
+package com.erdenbatuhan.test;
+
 /*
  * Project   : CourseQuerySystem
  * Class     : StudentTest.java
  * Developer : Batuhan Erden
  */
 
+import com.erdenbatuhan.object.*;
 import static org.junit.Assert.*;
 import org.junit.*;
 
